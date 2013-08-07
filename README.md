@@ -1,0 +1,1 @@
+Just a simple implementation of Tic-Tac-Toe in Haskell.
